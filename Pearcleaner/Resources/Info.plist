@@ -32,13 +32,13 @@
 			</array>
 		</dict>
 	</array>
-	<key>SUPublicEDKey</key>
-	<string>cD156JWtfwtgFJH2RApyj9Bgc0fCqLBGEf9C9IRMCWE=</string>
-	<key>SUFeedURL</key>
-	<string>https://raw.githubusercontent.com/alienator88/Pearcleaner/main/appcast.xml</string>
-	<key>SUEnableInstallerLauncherService</key>
-	<true/>
 	<key>SUEnableDownloaderService</key>
 	<true/>
+	<key>SUEnableInstallerLauncherService</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>https://raw.githubusercontent.com/alienator88/Pearcleaner/main/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>cD156JWtfwtgFJH2RApyj9Bgc0fCqLBGEf9C9IRMCWE=</string>
 </dict>
 </plist>
